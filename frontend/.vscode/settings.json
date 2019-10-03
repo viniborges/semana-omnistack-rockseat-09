@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true,
+        "emmet.syntaxProfiles": {
+            "javascript": "jsx",
+        },
+        "emmet.includeLanguages": {
+            "javascript": "javascriptreact",
+        },
+    }
+}
